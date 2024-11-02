@@ -1,4 +1,4 @@
-# DevOps Assignment Report
+# Qoala - DevOps Assignment Report
 ## Docker Application Debugging and Deployment
 
 ### Issues Identified
